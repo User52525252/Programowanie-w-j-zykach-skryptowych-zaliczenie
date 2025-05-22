@@ -1,5 +1,5 @@
 from books import Book
-
+# Lista wygenerowane przez SI
 def get_books():
     return [
         Book("J.K. Rowling", "Harry Potter i Komnata Tajemnic", 1998, 341, 3),
